@@ -1,0 +1,18 @@
+{
+    "name": "vagrant/java_calculator",
+    "description": "Exercise Project: create a working calculator using only HTML/CSS and JavaScript",
+    "type": "project",
+    "license": "CC",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giovanni Manara",
+            "email": "giovanni.manara@allievi.accademia.me"
+        }
+    ],
+    "require": {}
+}
