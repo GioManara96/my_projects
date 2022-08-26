@@ -1,0 +1,39 @@
+::placeholder{
+    color: #bbb!important;
+}
+
+#input{
+    padding: 8px;
+}
+
+.form-check-input:checked {
+    background-color: #198754;
+    border-color: #198754;
+}
+
+.form-check-label{
+    color: #ff0000;
+}
+
+td{
+    position: relative;
+}
+
+.strikeout td::before{
+    content: " ";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+    width: 100%;
+    padding-left: 10px;
+}
+
+tr{
+    vertical-align: middle;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}

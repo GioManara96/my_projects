@@ -1,0 +1,18 @@
+{
+    "name": "vagrant/to-do-list",
+    "description": "Exercise Project: create a website that dialogue with a Database in order to create a functional \"To DO\" list",
+    "type": "project",
+    "license": "CC",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giovanni Manara",
+            "email": "giovanni.manara@allievi.accademia.me"
+        }
+    ],
+    "require": {}
+}
